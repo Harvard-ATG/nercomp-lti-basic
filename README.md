@@ -29,3 +29,5 @@ $ vagrant ssh
 $ cd /var/www/lti-basic
 $ ls -l
 ```
+
+Good luck, have fun!
