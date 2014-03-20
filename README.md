@@ -12,6 +12,8 @@ The IMS Learning Tools Interoperability specification aims to establish a standa
 
 ## Demo Quickstart
 
+You will need [vagrant](http://www.vagrantup.com/), [virtual box](https://www.virtualbox.org/), and [git](http://git-scm.com/) installed.
+
 ```sh
 $ git clone https://github.com/Harvard-ATG/nercomp-lti-basic.git
 $ cd nercomp-lti-basic/demo
